@@ -9,8 +9,8 @@ For Sprint 2, the primary objective was to enhance the "Personal Tasks" function
 * **Database Integration:** Successfully linked the CRUD operations to the Custom Task Model (user_id, title, description, due_date, is_completed) established in Sprint 1.
 
 ### Evidence of Completion
-![Jira Sprint 2 Board]("sprint2 complete.png")
-*(Pro-tip: Take a screenshot of your "Personal Tasks" modal or your Jira "Done" column and upload it here.)*
+![Sprint 2 Progress](sprint2%20complete.png)
+![Personal Task Model, models.py](models.png)
 
 ---
 ## 2. Product Burn-down Chart
